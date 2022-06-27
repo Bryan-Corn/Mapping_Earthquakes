@@ -19,3 +19,22 @@ A user can use this code by inserting their own API key in config.js.
 ## Notes
 Overlays are drawn in the order they are selected. When all layers are selected in order, all the earthquakes are shown but the major ones are drawn over the fault lines.  The following screenshots are to show that this works on my machine.
 
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes1.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes2.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes3.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes4.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes5.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes6.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes7.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes8.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes9.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes10.png)
