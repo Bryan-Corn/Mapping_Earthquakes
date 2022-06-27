@@ -15,3 +15,7 @@ Using JavaScript and the D3.js library to retrieve the coordinates and magnitude
 
 ## Use
 A user can use this code by inserting their own API key in config.js.
+
+## Notes
+Overlays are drawn in the order they are selected. When all layers are selected in order, all the earthquakes are shown but the major ones are drawn over the fault lines.  The following screenshots are to show that this works on my machine.
+
