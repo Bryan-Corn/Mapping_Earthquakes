@@ -40,3 +40,10 @@ Overlays are drawn in the order they are selected. When all layers are selected 
 ![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes10.png)
 
 In this last image, all layers were cleared and selected in order, rendering the fault lines over the total earthquakes layer but under the major earthquakes.
+
+
+The following screenshots are to show that the popups work:
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes11.png)
+
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Mapping_Earthquakes12.png)
