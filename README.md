@@ -1,3 +1,4 @@
+![image](https://github.com/Bryan-Corn/Mapping_Earthquakes/blob/main/ReadMe_Images/Header.png)
 # Mapping_Earthquakes
 
 Basic Project Plan
